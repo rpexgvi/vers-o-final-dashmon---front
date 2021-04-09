@@ -1,0 +1,82 @@
+h1{
+    font-size: 26px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    color: rgb(7, 9, 48);
+    text-align: center;
+}
+
+
+h3{
+    font-size: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:rgb(88, 88, 88);
+    text-align: center;
+}
+
+h2{
+    font-size: 20px;
+    color:black;
+    text-align: center;
+}
+
+
+
+p{
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+a:link{
+    color: white;
+}
+a:visited{
+    color: white;
+}
+
+button{
+    color: grey;
+}
+
+
+body{
+    background-color: rgb(255, 120, 0);
+}
+
+/* criando estilos de classe no CSS*/
+.atenção{
+    font-size: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:gray;
+}
+.menu{
+    font-size: 14px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    color:rgb(10, 3, 54);
+}
+
+/* Formatando os campos do formulario */
+.campo_nome{
+position: relative;
+left:14px;
+width:250px;
+background-color:  rgb(230, 204, 132);
+color: salmon;
+}
+.campo_email{
+    position: relative;
+    left:14px;
+    width:250px;
+    background-color:  rgb(230, 204, 132);
+    color: salmon;
+    }
+
+
+/* criando uma classe para nome dos componentes */
+#Contato{
+        font-size:12px;
+        font-family: Verdana, Geneva, Tahoma;
+        color:  rgb(14, 12, 8);
+        background-color: rgb(0, 255, 128);
+    }
